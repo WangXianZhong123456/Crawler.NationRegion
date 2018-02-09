@@ -1,0 +1,11 @@
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.NationRegion\bin\Debug\Yaxon.NationRegion.exe
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.NationRegion\bin\Debug\Yaxon.NationRegion.pdb
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.NationRegion\obj\Debug\ResolveAssemblyReference.cache
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.NationRegion\obj\Debug\Yaxon.NationRegion.Form1.resources
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.NationRegion\obj\Debug\Yaxon.NationRegion.Properties.Resources.resources
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.NationRegion\obj\Debug\Yaxon.NationRegion.csproj.GenerateResource.Cache
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.NationRegion\obj\Debug\Yaxon.NationRegion.exe
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.NationRegion\obj\Debug\Yaxon.NationRegion.pdb
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.NationRegion\bin\Debug\Yaxon.NationRegion.exe.config
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.NationRegion\bin\Debug\Newtonsoft.Json.dll
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.NationRegion\bin\Debug\HtmlAgilityPack.dll
