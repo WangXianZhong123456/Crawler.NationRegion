@@ -1037,3 +1037,435 @@
 
 打印时间：2018-02-25 10:12:36
 打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8829052157886,119.974707071988&output=xml&pois=0
+
+打印时间：2018-02-25 10:12:45
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:12:45
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8790329256555,120.027946689432&output=xml&pois=0
+
+打印时间：2018-02-25 10:12:50
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:12:50
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8734024809,119.999387540613&output=xml&pois=0
+
+打印时间：2018-02-25 10:12:56
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:12:56
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8734024809,119.999387540613&output=xml&pois=0
+
+打印时间：2018-02-25 10:13:01
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:13:01
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=33.5524751085593,119.015797271573&output=xml&pois=0
+
+打印时间：2018-02-25 10:13:03
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:13:03
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8990595405633,120.070118252548&output=xml&pois=0
+
+打印时间：2018-02-25 10:13:11
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:13:11
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8899499563459,120.004896261214&output=xml&pois=0
+
+打印时间：2018-02-25 10:13:13
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:13:13
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8901857708739,120.003097767913&output=xml&pois=0
+
+打印时间：2018-02-25 10:13:17
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:13:17
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.6941999975305,119.875920068904&output=xml&pois=0
+
+打印时间：2018-02-25 10:13:24
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:13:24
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=33.5852913917102,119.023347319634&output=xml&pois=0
+
+打印时间：2018-02-25 10:13:27
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:13:27
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=36.0286458556746,120.167777631108&output=xml&pois=0
+
+打印时间：2018-02-25 10:13:31
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:13:31
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8778410412178,120.026840060593&output=xml&pois=0
+
+打印时间：2018-02-25 10:13:32
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:13:32
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.891909784312,119.997110384876&output=xml&pois=0
+
+打印时间：2018-02-25 10:13:45
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:13:45
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.890360525728,119.963273615053&output=xml&pois=0
+
+打印时间：2018-02-25 10:13:51
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:13:51
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=33.5850509961518,119.04798233066&output=xml&pois=0
+
+打印时间：2018-02-25 10:13:54
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:13:54
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8777826744712,120.026739513092&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:01
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:01
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8899499563459,120.004896261214&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:04
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:04
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8901857708739,120.003097767913&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:08
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:08
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.65757153122,119.884804037921&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:11
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:11
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8731244396996,120.013086730305&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:15
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:15
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=33.5828333646118,119.019068284429&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:20
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:20
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8899499563459,120.004896261214&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:28
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:28
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=33.5633009740053,119.059607452271&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:36
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:36
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=33.5951999367936,119.036801120908&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:40
+打印内容：线程ObtainBaiDuAddress1执行失败  事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。    在 Yaxon.ObtainBaiDuAddress.Common.DbHelperSQL.ExecuteSql(String SQLString) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\Common\DbHelperSQL.cs:行号 151
+   在 Yaxon.ObtainBaiDuAddress.DAL.ShopDal.UpdateState(Int32 shopID, String exceptionUri, Int32 state) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\DAL\ShopDal.cs:行号 89
+   在 Yaxon.ObtainBaiDuAddress.BLL.ShopBLL.GetTopShopModel() 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\BLL\ShopBLL.cs:行号 82
+   在 Yaxon.ObtainBaiDuAddress.Form1.CenterThread(Object obj) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\Form1.cs:行号 236
+
+打印时间：2018-02-25 10:14:44
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:44
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=33.5828362110906,119.039088397637&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:46
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:46
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8901857708739,120.003097767913&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:51
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:51
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8899499563459,120.004896261214&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:52
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:52
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8990595405633,120.070118252548&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:55
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:55
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8731244396996,120.013086730305&output=xml&pois=0
+
+打印时间：2018-02-25 10:14:57
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:14:57
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.9028924914351,120.022643450747&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:02
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:02
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8734024809,119.999387540613&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:08
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:08
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8790329256555,120.027946689432&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:12
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:12
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8777826744712,120.026739513092&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:14
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:14
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8731244396996,120.013086730305&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:16
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:16
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.900642808635,119.977507640731&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:18
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:18
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8902157796939,120.003097797315&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:21
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:21
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8902157796939,120.003097797315&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:23
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:23
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8969948850212,119.998810888931&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:27
+打印内容：线程ObtainBaiDuAddress1执行失败  事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。    在 Yaxon.ObtainBaiDuAddress.Common.DbHelperSQL.ExecuteSql(String SQLString) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\Common\DbHelperSQL.cs:行号 151
+   在 Yaxon.ObtainBaiDuAddress.DAL.ShopDal.UpdateState(Int32 shopID, String exceptionUri, Int32 state) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\DAL\ShopDal.cs:行号 89
+   在 Yaxon.ObtainBaiDuAddress.BLL.ShopBLL.GetTopShopModel() 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\BLL\ShopBLL.cs:行号 82
+   在 Yaxon.ObtainBaiDuAddress.Form1.CenterThread(Object obj) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\Form1.cs:行号 236
+
+打印时间：2018-02-25 10:15:31
+打印内容：线程ObtainBaiDuAddress1执行失败  事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。    在 Yaxon.ObtainBaiDuAddress.Common.DbHelperSQL.ExecuteSql(String SQLString) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\Common\DbHelperSQL.cs:行号 151
+   在 Yaxon.ObtainBaiDuAddress.DAL.ShopDal.UpdateState(Int32 shopID, String exceptionUri, Int32 state) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\DAL\ShopDal.cs:行号 89
+   在 Yaxon.ObtainBaiDuAddress.BLL.ShopBLL.GetTopShopModel() 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\BLL\ShopBLL.cs:行号 82
+   在 Yaxon.ObtainBaiDuAddress.Form1.CenterThread(Object obj) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\Form1.cs:行号 236
+
+打印时间：2018-02-25 10:15:35
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:35
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8990595405633,120.070118252548&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:39
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:39
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8945841419315,120.010502810084&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:43
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:43
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.9028924914351,120.022643450747&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:45
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:45
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8953326624128,120.010903988624&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:51
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:51
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=33.5672350115399,119.033603962123&output=xml&pois=0
+
+打印时间：2018-02-25 10:15:54
+打印内容：线程ObtainBaiDuAddress1执行失败  事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。    在 Yaxon.ObtainBaiDuAddress.Common.DbHelperSQL.ExecuteSql(String SQLString) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\Common\DbHelperSQL.cs:行号 151
+   在 Yaxon.ObtainBaiDuAddress.DAL.ShopDal.UpdateState(Int32 shopID, String exceptionUri, Int32 state) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\DAL\ShopDal.cs:行号 89
+   在 Yaxon.ObtainBaiDuAddress.BLL.ShopBLL.GetTopShopModel() 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\BLL\ShopBLL.cs:行号 82
+   在 Yaxon.ObtainBaiDuAddress.Form1.CenterThread(Object obj) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\Form1.cs:行号 236
+
+打印时间：2018-02-25 10:15:58
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:15:58
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8990595405633,120.070118252548&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:01
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:01
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.6941999975305,119.875920068904&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:04
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:04
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8777826744712,120.026739513092&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:06
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:06
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=36.0286458556746,120.167777631108&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:11
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:11
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8953326624128,120.010903988624&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:14
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:14
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8899499563459,120.004896261214&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:17
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:17
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8778410412178,120.026840060593&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:19
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:19
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8902157796939,120.003097797315&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:22
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:22
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.65757153122,119.884804037921&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:27
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:27
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.6941999975305,119.875920068904&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:31
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:31
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8790329256555,120.027946689432&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:33
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:33
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8990595405633,120.070118252548&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:39
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:39
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8734024809,119.999387540613&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:45
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:45
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.632403635533,119.868822695516&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:47
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:47
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8829052157886,119.974707071988&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:51
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:51
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.6941999975305,119.875920068904&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:53
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:53
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.891909784312,119.997110384876&output=xml&pois=0
+
+打印时间：2018-02-25 10:16:54
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:16:54
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8901857708739,120.003097767913&output=xml&pois=0
+
+打印时间：2018-02-25 10:17:01
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:17:01
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=33.5850509961518,119.04798233066&output=xml&pois=0
+
+打印时间：2018-02-25 10:17:06
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:17:06
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.9028924914351,120.022643450747&output=xml&pois=0
+
+打印时间：2018-02-25 10:17:08
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:17:08
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8990595405633,120.070118252548&output=xml&pois=0
+
+打印时间：2018-02-25 10:17:11
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:17:11
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=36.0286458556746,120.167777631108&output=xml&pois=0
+
+打印时间：2018-02-25 10:17:16
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:17:16
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=35.8731244396996,120.013086730305&output=xml&pois=0
+
+打印时间：2018-02-25 10:17:18
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:17:18
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=36.0286458556746,120.167777631108&output=xml&pois=0
+
+打印时间：2018-02-25 10:17:22
+打印内容：线程ObtainBaiDuAddress1执行失败  事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。    在 Yaxon.ObtainBaiDuAddress.Common.DbHelperSQL.ExecuteSql(String SQLString) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\Common\DbHelperSQL.cs:行号 151
+   在 Yaxon.ObtainBaiDuAddress.DAL.ShopDal.UpdateState(Int32 shopID, String exceptionUri, Int32 state) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\DAL\ShopDal.cs:行号 89
+   在 Yaxon.ObtainBaiDuAddress.BLL.ShopBLL.GetTopShopModel() 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\BLL\ShopBLL.cs:行号 82
+   在 Yaxon.ObtainBaiDuAddress.Form1.CenterThread(Object obj) 位置 E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\Form1.cs:行号 236
+
+打印时间：2018-02-25 10:17:24
+打印内容：事务(进程 ID 62)与另一个进程被死锁在 锁 资源上，并且已被选作死锁牺牲品。请重新运行该事务。
+
+打印时间：2018-02-25 10:17:24
+打印内容：exceptionHtml=http://api.map.baidu.com/geocoder/v2/?latest_admin=0&extensions_town=true&ak=te5ZSkF8gjGKcXzToDGrtPG8F3GAyrgI&callback=renderReverse&location=36.0286458556746,120.167777631108&output=xml&pois=0
