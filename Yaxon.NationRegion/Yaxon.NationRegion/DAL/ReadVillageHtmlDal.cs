@@ -43,7 +43,7 @@ namespace Yaxon.NationRegion.DAL
 	                            [Node] [varchar](50) NULL,
 	                            [Code] [varchar](50) NULL,
 	                            [TypeCode] [varchar](50) NULL,
-	                            [Name] [varchar](50) NULL,
+	                            [Name] [varchar](200) NULL,
 	                            [Href] [varchar](200) NULL,
 	                            [IsLowerUp] [int] NULL,
 	                            [Level] [int] NULL)
@@ -107,7 +107,7 @@ namespace Yaxon.NationRegion.DAL
 	                            [Node] [varchar](50) NULL,
 	                            [Code] [varchar](50) NULL,
 	                            [TypeCode] [varchar](50) NULL,
-	                            [Name] [varchar](50) NULL,
+	                            [Name] [varchar](200) NULL,
 	                            [Href] [varchar](200) NULL,
 	                            [IsLowerUp] [int] NULL,
 	                            [Level] [int] NULL)

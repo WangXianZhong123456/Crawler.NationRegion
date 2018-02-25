@@ -1,0 +1,9 @@
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\obj\Debug\ResolveAssemblyReference.cache
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\obj\Debug\Yaxon.ObtainBaiDuAddress.Properties.Resources.resources
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\obj\Debug\Yaxon.ObtainBaiDuAddress.csproj.GenerateResource.Cache
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\bin\Debug\Yaxon.ObtainBaiDuAddress.exe.config
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\obj\Debug\Yaxon.ObtainBaiDuAddress.Form1.resources
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\bin\Debug\Yaxon.ObtainBaiDuAddress.exe
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\bin\Debug\Yaxon.ObtainBaiDuAddress.pdb
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\obj\Debug\Yaxon.ObtainBaiDuAddress.exe
+E:\Works\银鹭代码\爬虫全国行政区域数据(国家统计局)\Yaxon.NationRegion\Yaxon.ObtainBaiDuAddress\obj\Debug\Yaxon.ObtainBaiDuAddress.pdb
