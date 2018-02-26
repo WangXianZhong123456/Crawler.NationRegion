@@ -23,12 +23,20 @@ namespace Yaxon.ObtainBaiDuAddress.DAL
             List<ShopModel> list = new List<ShopModel>();
             foreach (DataRow dr in dt.Rows)
             {
-                list.Add(new ShopModel
+                try
                 {
-                    ShopID = Convert.ToInt32(dr["ShopID"].ToString()),
-                    Longitude = Convert.ToDouble(dr["Longitude"].ToString()),
-                    Latitude = Convert.ToDouble(dr["Latitude"].ToString())
-                });
+                    list.Add(new ShopModel
+                    {
+                        ShopID = Convert.ToInt32(dr["ShopID"].ToString()),
+                        Longitude = Convert.ToDouble(dr["Longitude"].ToString()),
+                        Latitude = Convert.ToDouble(dr["Latitude"].ToString())
+                    });
+                }
+                catch
+                {
+                    continue;
+                }
+
             }
             return list;
         }

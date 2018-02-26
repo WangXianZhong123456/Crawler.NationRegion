@@ -26,10 +26,10 @@ namespace Yaxon.ObtainBaiDuAddress.BLL
             {
                 foreach (ShopModel model in list)
                 {
-                    BaiDuCoordinate bd_Coor = BaiduCoordinateTrans.GCJ2Baidu(model.Longitude, model.Latitude);
+                    BaiDuCoordinate bd_Coor = BaiduCoordinateTrans.GCJ2Baidu(model.Longitude, model.Latitude); /*个别经纬度格式不对*/
                     StringBuilder sb = new StringBuilder();
                     sb.Append("http://api.map.baidu.com/geocoder/v2/?");
-                    sb.Append("latest_admin=0&");
+                    sb.Append("latest_admin=1&");
                     sb.Append("extensions_town=true&");
                     sb.Append("ak=" + Const.BaiduAK + "&");
                     sb.Append("callback=renderReverse&");
